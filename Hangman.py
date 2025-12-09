@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 '''
 Hangman game with score tracking, rounds, and persistent player storage
 in JSON.
